@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3777883,
+          -22.7837042
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "nome": "Escola Municipal Manoel Antonio Sendas",
+        "bairro": "Agostinho Porto",
+        "endereco": "Rua Maria Rasuk Vilela, s/n",
+        "endereco_mapa": "Rua Maria Rasuk Vilela, Jardim Meriti, Coelho da Rocha, São João de Meriti, Rio de Janeiro, Região Sudeste, 25555-360, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3978912,
+          -22.7910345
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "nome": "Escola Municipal Rui Barbosa",
+        "bairro": "Éden",
+        "endereco": "Rua Cristalina, 34",
+        "endereco_mapa": "Rua Cristalina, Éden, Coelho da Rocha, São João de Meriti, Rio de Janeiro, Região Sudeste, 25535-230, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3812664,
+          -22.8036567
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "nome": "Escola Municipal Francisco Agostinho da Costa",
+        "bairro": "Engenheiro Belford",
+        "endereco": "Rua Rubens Peixoto, s/n",
+        "endereco_mapa": "Rua Rubens Peixoto, Engenheiro Belford, São Mateus, São João de Meriti, Rio de Janeiro, Região Sudeste, 25525-660, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3447008,
+          -22.7661374
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "nome": "Escola Municipal Carlos Teixeira",
+        "bairro": "Jardim Alegria",
+        "endereco": "Rua Rio Claro, 20",
+        "endereco_mapa": "Rua Rio Claro, Morro Do Tamanco, Jardim Alegria, São João de Meriti, Rio de Janeiro, Região Sudeste, 25571-220, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.337164,
+          -22.7685148
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "nome": "Escola Municipal Manoel Gonçalo",
+        "bairro": "Jardim Metrópole",
+        "endereco": "Rua Bucareste, 05",
+        "endereco_mapa": "Rua Bucareste, Morro do Guarani, Favela da Ratatuia, Jardim Metropole, São João de Meriti, Rio de Janeiro, Região Sudeste, 25571-220, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3519704,
+          -22.7838699
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "nome": "Escola Municipal Vasco Afonso de Carvalho",
+        "bairro": "Jardim Paraíso",
+        "endereco": "Rua Projetada, s/n",
+        "endereco_mapa": "Rua Projetada, Jardim Íris, São João de Meriti, Rio de Janeiro, Região Sudeste, 25580-000, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3338401,
+          -22.7807403
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "nome": "Escola Municipal Casimiro de Abreu",
+        "bairro": "Jardim Sumaré",
+        "endereco": "Avenida Miguel Couto, 619",
+        "endereco_mapa": "Avenida Miguel Couto, Parque Olavo Bilac, São João de Meriti, Rio de Janeiro, Região Sudeste, 25025-500, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3830501,
+          -22.773488
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "nome": "Escola Municipal Ignácio Lucas",
+        "bairro": "Parque Alian",
+        "endereco": "Rua do Chumbo, 513",
+        "endereco_mapa": "Rua do Chumbo, Coelho da Rocha, São João de Meriti, Rio de Janeiro, Região Sudeste, 25550-611, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3378147,
+          -22.7947056
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "nome": "Escola Municipal Edilberto Ribeiro de Castro",
+        "bairro": "Parque Araruama",
+        "endereco": "Rua Euzébio Tostes, s/n",
+        "endereco_mapa": "Rua Euzebio Tostes, Parque Novo Rio, São João de Meriti, Rio de Janeiro, Região Sudeste, 25585-130, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3630411,
+          -22.7919344
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "nome": "Escola Municipal José Bonifácio",
+        "bairro": "Parque José Bonifácio",
+        "endereco": "Rua Juparanã, s/n",
+        "endereco_mapa": "Rua Juparana, Jardim José Bonifácio, São João de Meriti, Rio de Janeiro, Região Sudeste, 25565-172, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3348357,
+          -22.7869979
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "nome": "Creche Municipal C.E.D.I.A.S",
+        "bairro": "Parque Tietê",
+        "endereco": "Rua Ibicuí, s/n",
+        "endereco_mapa": "Rua Ibicui, Parque Araruama, São João de Meriti, Rio de Janeiro, Região Sudeste, 25585-270, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3373727,
+          -22.7876645
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "nome": "Escola Municipal Dr. Getúlio de Moura",
+        "bairro": "Parque Tietê",
+        "endereco": "Rua Rio das Ostras, s/n",
+        "endereco_mapa": "Rua Rio das Ostras, Parque Araruama, São João de Meriti, Rio de Janeiro, Região Sudeste, 25585-270, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3629835,
+          -22.7746952
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "nome": "Escola Municipal Professora Lígia da Silva França",
+        "bairro": "Praça da Bandeira",
+        "endereco": "Avenida Comendador Teles, 244",
+        "endereco_mapa": "Avenida Comendador Teles, Vila São João, Coelho da Rocha, São João de Meriti, Rio de Janeiro, Região Sudeste, 25560-472, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3890099,
+          -22.8106818
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "nome": "Escola Municipal Dr. Christovam Berberéia",
+        "bairro": "São Mateus",
+        "endereco": "Rua Antônio Martins, s/n",
+        "endereco_mapa": "Rua Antônio Martins de Oliveira, Tomazinho, São Mateus, São João de Meriti, Rio de Janeiro, Região Sudeste, 26545-460, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3604697,
+          -22.7983553
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "nome": "Escola Municipal Padre Paul Jean Guerry",
+        "bairro": "Tomazinho",
+        "endereco": "Rua São Francisco de Assis, 181",
+        "endereco_mapa": "Rua São Francisco de Assis, Jardim José Bonifácio, São João de Meriti, Rio de Janeiro, Região Sudeste, 25565-350, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3328976,
+          -22.7825966
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "nome": "Escola Municipal Antônio Guedes",
+        "bairro": "Trezentos",
+        "endereco": "Rua Brisamar, 155",
+        "endereco_mapa": "Rua Brisamar, Parque Olavo Bilac, São João de Meriti, Rio de Janeiro, Região Sudeste, 25025-500, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3506166,
+          -22.7751564
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "nome": "Escola Municipal Milton Rodrigues Pereira",
+        "bairro": "Vila Andorinha",
+        "endereco": "Rua Marajó, 305",
+        "endereco_mapa": "Rua Marajo, Vila Rua Marajó, Morro Da Vila Ruth, Jardim Íris, São João de Meriti, Rio de Janeiro, Região Sudeste, 25576-020, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3799127,
+          -22.7944131
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "nome": "E.M. Prof. Virgílio Machado",
+        "bairro": "Vila Rosali",
+        "endereco": "Rua Delfim Moreira, s/n",
+        "endereco_mapa": "Rua Delfim Moreira, Vila Rosali, São João de Meriti, Rio de Janeiro, Região Sudeste, 25510-170, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3758875,
+          -22.7913443
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "nome": "Escola Municipal São João Batista",
+        "bairro": "Vila Rosali",
+        "endereco": "Avenida Fluminense, 45",
+        "endereco_mapa": "Avenida Fluminense, Vila Rosali, São João de Meriti, Rio de Janeiro, Região Sudeste, 25510-170, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3502036,
+          -22.770241
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "nome": "Escola Municipal Vila São João",
+        "bairro": "Vila São João",
+        "endereco": "Rua Lisboa, s/n",
+        "endereco_mapa": "Rua Lisboa, Vila Rua Lisboa, Morro Da Vila Ruth, Vila São João, São João de Meriti, Rio de Janeiro, Região Sudeste, 25570-142, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.354175,
+          -22.7787913
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "nome": "Escola Municipal Presidente Kennedy",
+        "bairro": "Vilar dos Teles",
+        "endereco": "Rua Botafogo, 60",
+        "endereco_mapa": "Rua Botafogo, Morro Da Vila Ruth, Vilar dos Teles, São João de Meriti, Rio de Janeiro, Região Sudeste, 25576-260, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3826105,
+          -22.7872286
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "nome": "CIEP 138 Municipal Dauta Jobert Barreto",
+        "bairro": "Vila Tiradentes",
+        "endereco": "Rua Joaquim Coelho Álamo, s/n",
+        "endereco_mapa": "Rua Joaquim Coelho Álamo, Agostinho Porto, Coelho da Rocha, São João de Meriti, Rio de Janeiro, Região Sudeste, 25555-360, Brasil"
+      }
+    }
+  ]
+}
